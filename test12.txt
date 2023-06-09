@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 80DD-7ED9
+
+ Directory of C:\Users\Vinod\OneDrive\Desktop\myproject
+
+06/09/2023  03:57 PM    <DIR>          .
+06/09/2023  03:42 PM    <DIR>          ..
+06/09/2023  03:57 PM                 0 test12.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  185,800,548,352 bytes free
